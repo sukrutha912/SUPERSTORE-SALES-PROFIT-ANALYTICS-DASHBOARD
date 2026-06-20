@@ -244,12 +244,6 @@ Analyzes:
 AI & ML Undergraduate  
 Malla Reddy University
 
-### Skills
 
-Power BI | SQL | Python | C++ | HTML | CSS | JavaScript | React
-
-📧 Email: sukrutha912@gmail.com
-
----
 
 ⭐ If you found this project useful, please consider giving it a star on GitHub.
