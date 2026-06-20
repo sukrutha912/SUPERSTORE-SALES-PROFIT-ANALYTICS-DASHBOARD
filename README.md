@@ -1,4 +1,3 @@
-# SUPERSTORE-SALES-PROFIT-ANALYTICS-DASHBOARD
 # 📊 Superstore Sales & Profit Analytics Dashboard
 
 ## 🚀 Project Overview
