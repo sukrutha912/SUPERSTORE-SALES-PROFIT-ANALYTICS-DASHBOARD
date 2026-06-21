@@ -208,7 +208,7 @@ View the complete project here:
 ## 📷 Dashboard Preview
 
 ### Executive Overview
-(Add Screenshot)
+(Executive Overview Dashboard.png)
 
 ### Sales Analytics
 (Add Screenshot)
