@@ -211,16 +211,16 @@ View the complete project here:
 ![Executive Overview](https://github.com/sukrutha912/SUPERSTORE-SALES-PROFIT-ANALYTICS-DASHBOARD/blob/5e478ef3b765b7d44ff74b8064a1013ff5780463/Executive%20Overview%20Dashboard.png)
 
 ### Sales Analytics
-(Add Screenshot)
+![Sales Analytics](https://github.com/sukrutha912/SUPERSTORE-SALES-PROFIT-ANALYTICS-DASHBOARD/blob/d25c33419c8cda0405e678bb54d7430d2077585a/Sales%20Analytics%20Dashboard.png)
 
 ### Profit Analytics
-(Add Screenshot)
+![Profit Analytics](https://github.com/sukrutha912/SUPERSTORE-SALES-PROFIT-ANALYTICS-DASHBOARD/blob/d25c33419c8cda0405e678bb54d7430d2077585a/Profit%20Analytics%20Dashboard.png)
 
 ### Customer Analytics
-(Add Screenshot)
+![Customer Analytics](https://github.com/sukrutha912/SUPERSTORE-SALES-PROFIT-ANALYTICS-DASHBOARD/blob/d25c33419c8cda0405e678bb54d7430d2077585a/Customer%20Analytics%20Dashboard.png)
 
 ### Product Analytics
-(Add Screenshot)
+![Product Analytics](https://github.com/sukrutha912/SUPERSTORE-SALES-PROFIT-ANALYTICS-DASHBOARD/blob/d25c33419c8cda0405e678bb54d7430d2077585a/Product%20Analytics%20Dashboard.png)
 
 ---
 
