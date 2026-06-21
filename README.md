@@ -208,7 +208,7 @@ View the complete project here:
 ## 📷 Dashboard Preview
 
 ### Executive Overview
-(Executive Overview Dashboard.png)
+(https://github.com/sukrutha912/SUPERSTORE-SALES-PROFIT-ANALYTICS-DASHBOARD/blob/5e478ef3b765b7d44ff74b8064a1013ff5780463/Executive%20Overview%20Dashboard.png)
 
 ### Sales Analytics
 (Add Screenshot)
