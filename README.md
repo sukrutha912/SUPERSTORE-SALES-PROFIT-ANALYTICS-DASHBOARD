@@ -196,6 +196,15 @@ Analyzes:
 
 ---
 
+## 🔗 Project Link
+
+View the complete project here:
+
+[Superstore Sales & Profit Analytics Dashboard]()
+
+---
+
+
 ## 📷 Dashboard Preview
 
 ### Executive Overview
