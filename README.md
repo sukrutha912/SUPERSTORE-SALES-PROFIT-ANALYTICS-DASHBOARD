@@ -200,7 +200,7 @@ Analyzes:
 
 View the complete project here:
 
-[Superstore Sales & Profit Analytics Dashboard]()
+[Superstore Sales & Profit Analytics Dashboard](https://github.com/sukrutha912/SUPERSTORE-SALES-PROFIT-ANALYTICS-DASHBOARD.git)
 
 ---
 
